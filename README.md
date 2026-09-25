@@ -9,8 +9,8 @@
 
 Dev mobile : Kotlin Multiplatform, Android (Java), Swift/iOS — et un peu de web (HTML/CSS/JS) à l'occasion.
 
-**FR** — Actuellement en train d'apprendre Python, et j'essaye de me spécialiser sur les SLM (small language models) embarqués dans les apps mobiles et multiplateformes. Ouvert aux collabs open source, n'hésitez pas à me contacter.
+**FR** — Actuellement en train d'apprendre Vue, et j'essaye de me spécialiser sur les SLM (small language models) embarqués dans les apps mobiles et multiplateformes. Ouvert aux collabs open source, n'hésitez pas à me contacter.
 
-**EN** — Currently learning Python, and trying to specialize in SLMs (small language models) for mobile and multiplatform apps. Open to open source collabs, feel free to reach out.
+**EN** — Currently learning Vue, and trying to specialize in SLMs (small language models) for mobile and multiplatform apps. Open to open source collabs, feel free to reach out.
 
 Pronouns: He/They
